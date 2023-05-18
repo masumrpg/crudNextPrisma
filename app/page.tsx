@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div>Home Page</div>
+    <div>Halaman Utama</div>
   )
 }
 
